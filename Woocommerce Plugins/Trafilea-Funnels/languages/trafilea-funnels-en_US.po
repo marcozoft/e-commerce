@@ -1,0 +1,7 @@
+msgid "Select the desired amount"
+msgstr "Select the desired amount"
+
+
+
+msgid "Order summary"
+msgstr "Order summary"

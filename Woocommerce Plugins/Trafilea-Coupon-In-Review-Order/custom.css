@@ -1,0 +1,26 @@
+.coupon_copy input.button {
+    background: #2b2b2b;
+    font-size: 14px;
+    height: 44px;
+    margin-left: 10px;
+    font-weight: normal;
+    max-width: 130px!important;    
+    
+}
+
+.coupon_copy {
+    border-top: solid thin rgba(0,0,0,.1);
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.coupon_copy input{
+	margin-top:0px!important;
+}
+
+@media (max-width:768px){
+  .coupon_copy input.button {
+      margin-left: 0px;
+      float: left;
+  }
+}  

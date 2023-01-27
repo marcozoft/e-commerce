@@ -1,0 +1,21 @@
+.discount th {
+    background: #ffffff !important;
+    color: #5a5a5a !important;
+    font-weight: bold;
+}
+
+.botones {
+    background-color: #fff;
+    border: 2px solid #387fc8;
+    border-radius: 5px;
+    color: #387fc8;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 12px;
+    padding: 16px 28px !important;
+    text-align: center;
+}
+
+.quantity_current td{background:rgba(255, 255, 188, 0.34) !important;}
+.product-total label{display:initial;}
